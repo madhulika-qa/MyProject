@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is D22F-F151
+
+ Directory of C:\Users\Dell\Desktop\Git and GIT HUB\MyDemo
+
+12-07-2025  20:42    <DIR>          .
+12-07-2025  20:42    <DIR>          ..
+12-07-2025  20:41                 0 git
+10-07-2025  21:32               399 index.html
+10-07-2025  21:31                12 test1.txt
+11-07-2025  21:28               446 test2.txt
+12-07-2025  20:42                 0 test3.txt
+               5 File(s)            857 bytes
+               2 Dir(s)  44,495,228,928 bytes free
